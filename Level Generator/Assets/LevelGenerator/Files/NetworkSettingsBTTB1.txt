@@ -1,0 +1,5 @@
+25
+256
+100
+WeightsNetworkSettingsBTTB1
+SavedLevelsBTTB
